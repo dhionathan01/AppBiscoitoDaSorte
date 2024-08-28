@@ -1,3 +1,5 @@
 # Imagens projeto:
-* Estilo e components concluídos:
+* Estilo e components concluÃ­dos:
 ![alt text](image.png)
+* Alterando a imagem e frase com useState:
+![alt text](appBiscoitoSorte_funcionamento.gif)
